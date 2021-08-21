@@ -83,7 +83,7 @@ The Chaotic-AUR community prioritizes marginalized people's safety over privileg
 - Criticizing racist, sexist, cissexist, or otherwise oppressive behavior or assumptions
 - Communicating boundaries or criticizing oppressive behavior in a "tone" you don't find congenial 
 
-The examples listed above are not against the Code of Conduct. If you have questions about the above statements, please read [GNOME Foundation's document on Supporting Diversity(https://wiki.gnome.org/Foundation/CodeOfConduct/SupportingDiversity).
+The examples listed above are not against the Code of Conduct. If you have questions about the above statements, please read [GNOME Foundation's document on Supporting Diversity](https://wiki.gnome.org/Foundation/CodeOfConduct/SupportingDiversity).
 
 Outreach and diversity efforts directed at under-represented groups are permitted under the code of conduct. For example, a social event for women would not be classified as being outside the Code of Conduct under this provision.
 
