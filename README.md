@@ -78,7 +78,6 @@ We want all participants in the Chaotic-AUR community have the best possible exp
 
 The Chaotic-AUR community prioritizes marginalized people's safety over privileged people's comfort, for example in situations involving:
 
-- "Reverse"-isms, including "reverse racism," "reverse sexism," and "cisphobia"
 - Reasonable communication of boundaries, such as "leave me alone," "go away," or "I'm not discussing this with you."
 - Criticizing racist, sexist, cissexist, or otherwise oppressive behavior or assumptions
 - Communicating boundaries or criticizing oppressive behavior in a "tone" you don't find congenial 
