@@ -50,20 +50,20 @@ The Chaotic-CX community is dedicated to providing a positive experience for eve
 
 ## Community Guidelines
 
-Examples of behavior that contributes to creating a positive environment include:
+Behaviors that contribute to creating a positive environment include:
 
 - **Be friendly.** Use welcoming and inclusive language.
-- **Be empathetic.** Be respectful of differing NON-EXCLUSIVE viewpoints and experiences.
-- **Be respectful.** When we disagree, we do so in a polite and constructive manner.
-- **Be considerate.** Remember that decisions are often a difficult choice between competing priorities. Focus on what is best for the community. Keep discussions around technology choices constructive and respectful.
-- **Be patient and generous.** If someone asks for help it is because they need it. When documentation is available that answers the question, politely point them to it. If the question is off-topic, suggest a more appropriate online space to seek help.
+- **Be empathetic.** Be respectful of others' viewpoints and experiences.
+- **Be respectful.** Express disagreements in a polite and constructive manner.
+- **Be considerate.** Focus on what is best for the community. Keep discussions around technology choices constructive and respectful.  Remember that decisions are often a difficult choice between competing priorities.
+- **Be patient and generous.** If someone asks for help, it is because they need it. When documentation is available that answers the question, politely point them to it. If the question is off-topic, suggest a more appropriate online space to seek help.
 - **Try to be concise.** Read the discussion before commenting in order to not repeat a point that has been made.
 
 ## Inappropriate Behavior
 
-Community members asked to stop any inappropriate behavior are expected to comply immediately.
+We want all participants in the Chaotic-CX community have the best possible experience they can.  Community members asked to stop any inappropriate behavior are expected to comply immediately.
 
-We want all participants in the Chaotic-CX community have the best possible experience they can. In order to be clear what that means, we've provided a list of examples of behaviors that are inappropriate for Chaotic-CX community spaces:
+Inappropriate behaviors include, but are not limited to:
 
 - **Deliberate intimidation, stalking, or following.**
 - **Sustained disruption of online discussion, talks, or other events.** Sustained disruption of events, online discussions, or meetings, including talks and presentations, will not be tolerated. This includes 'Talking over' or 'heckling' event speakers or influencing crowd actions that cause hostility in event sessions. Sustained disruption also includes drinking alcohol to excess or using recreational drugs to excess, or pushing others to do so.
@@ -76,14 +76,14 @@ We want all participants in the Chaotic-CX community have the best possible expe
 
 ### Safety versus Comfort
 
-The Chaotic-CX community prioritizes marginalized people's safety over privileged people's comfort, for example in situations involving:
+The Chaotic-CX community prioritizes marginalized people's safety over privileged people's comfort.  The following are not against the Code of Conduct.
 
 - "Reverse"-isms, including "reverse racism," "reverse sexism," and "cisphobia"
 - Reasonable communication of boundaries, such as "leave me alone," "go away," or "I'm not discussing this with you."
 - Criticizing racist, sexist, cissexist, or otherwise oppressive behavior or assumptions
 - Communicating boundaries or criticizing oppressive behavior in a "tone" you don't find congenial 
 
-The examples listed above are not against the Code of Conduct. If you have questions about the above statements, please read [GNOME Foundation's document on Supporting Diversity](https://wiki.gnome.org/Foundation/CodeOfConduct/SupportingDiversity).
+If you have questions about the above statements, please read [GNOME Foundation's document on Supporting Diversity](https://wiki.gnome.org/Foundation/CodeOfConduct/SupportingDiversity).
 
 Outreach and diversity efforts directed at under-represented groups are permitted under the code of conduct. For example, a social event for women would not be classified as being outside the Code of Conduct under this provision.
 
