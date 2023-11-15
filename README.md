@@ -1,19 +1,19 @@
-# Chaotic-AUR Code of Conduct
+# Chaotic-CX Code of Conduct
 
-Thank you for being a part of the Chaotic-AUR community. We value your participation and want everyone to have an enjoyable and fulfilling experience. Accordingly, all participants are expected to follow this Code of Conduct, and to show respect, understanding, and consideration to one another. Thank you for helping make this a welcoming, friendly community for everyone. 
+Thank you for being a part of the Chaotic-CX community. We value your participation and want everyone to have an enjoyable and fulfilling experience. Accordingly, all participants are expected to follow this Code of Conduct, and to show respect, understanding, and consideration to one another. Thank you for helping make this a welcoming, friendly community for everyone. 
 
 ## Scope
 
-This Code of Conduct applies to all Chaotic-AUR community spaces, including, but not limited to:
+This Code of Conduct applies to all Chaotic-CX community spaces, including, but not limited to:
 
-- Code repositories - `github.com/chaotic-aur`
-- Chaotic-AUR's Telegram channels and groups (including bridges to Matrix)
+- Code repositories - `github.com/chaotic-cx` and `github.com/chaotic-aur`
+- Chaotic-CX's Telegram channels and groups (including bridges to Matrix)
 - Mailing `*@chaotic.cx`
 - Community spaces hosted on `chaotic.cx` infrastructure
 
-Communication channels and private conversations that are normally out of scope may be considered in scope if a Chaotic-AUR participant is being stalked or harassed. Social media conversations may be considered in-scope if the incident occurred under a Chaotic-AUR related hashtag, or when an official Chaotic-AUR account on social media is tagged, or within any other discussion about Chaotic-AUR. The Chaotic-AUR's staff reserves the right to take actions against behaviors that happen in any context, if they are deemed to be relevant to the Chaotic-AUR project and its participants.
+Communication channels and private conversations that are normally out of scope may be considered in scope if a Chaotic-CX participant is being stalked or harassed. Social media conversations may be considered in-scope if the incident occurred under a Chaotic-CX related hashtag, or when an official Chaotic-CX account on social media is tagged, or within any other discussion about Chaotic-CX. The Chaotic-CX's staff reserves the right to take actions against behaviors that happen in any context, if they are deemed to be relevant to the Chaotic-CX project and its participants.
 
-All participants in Chaotic-AUR community spaces are subject to the Code of Conduct. This includes founding members, staff members, corporate sponsors, and paid employees. This also includes volunteers, maintainers, leaders, contributors, contribution reviewers, issue reporters, Chaotic-AUR users, and anyone participating in discussion in Chaotic-AUR community spaces.
+All participants in Chaotic-CX community spaces are subject to the Code of Conduct. This includes founding members, staff members, corporate sponsors, and paid employees. This also includes volunteers, maintainers, leaders, contributors, contribution reviewers, issue reporters, Chaotic-CX users, and anyone participating in discussion in Chaotic-CX community spaces.
 
 ## Reporting an Incident
 
@@ -21,7 +21,7 @@ If you believe that someone is violating the Code of Conduct, or have any other 
 
 ## Our Standards
 
-The Chaotic-AUR community is dedicated to providing a positive experience for everyone, regardless of:
+The Chaotic-CX community is dedicated to providing a positive experience for everyone, regardless of:
 
 - age
 - body size
@@ -63,7 +63,7 @@ Examples of behavior that contributes to creating a positive environment include
 
 Community members asked to stop any inappropriate behavior are expected to comply immediately.
 
-We want all participants in the Chaotic-AUR community have the best possible experience they can. In order to be clear what that means, we've provided a list of examples of behaviors that are inappropriate for Chaotic-AUR community spaces:
+We want all participants in the Chaotic-CX community have the best possible experience they can. In order to be clear what that means, we've provided a list of examples of behaviors that are inappropriate for Chaotic-CX community spaces:
 
 - **Deliberate intimidation, stalking, or following.**
 - **Sustained disruption of online discussion, talks, or other events.** Sustained disruption of events, online discussions, or meetings, including talks and presentations, will not be tolerated. This includes 'Talking over' or 'heckling' event speakers or influencing crowd actions that cause hostility in event sessions. Sustained disruption also includes drinking alcohol to excess or using recreational drugs to excess, or pushing others to do so.
@@ -76,7 +76,7 @@ We want all participants in the Chaotic-AUR community have the best possible exp
 
 ### Safety versus Comfort
 
-The Chaotic-AUR community prioritizes marginalized people's safety over privileged people's comfort, for example in situations involving:
+The Chaotic-CX community prioritizes marginalized people's safety over privileged people's comfort, for example in situations involving:
 
 - "Reverse"-isms, including "reverse racism," "reverse sexism," and "cisphobia"
 - Reasonable communication of boundaries, such as "leave me alone," "go away," or "I'm not discussing this with you."
@@ -89,7 +89,7 @@ Outreach and diversity efforts directed at under-represented groups are permitte
 
 Basic expectations for conduct are not covered by the "reverse-ism clause" and would be enforced irrespective of the demographics of those involved. For example, racial discrimination will not be tolerated, irrespective of the race of those involved. Nor would unwanted sexual attention be tolerated, whatever someone's gender or sexual orientation. Members of our community have the right to expect that participants in the project will uphold these standards.
 
-If a participant engages in behavior that violates this code of conduct, the Chaotic-AUR's staff may take any action they deem appropriate. In cases involving the staff or founding members the immediate action is expelishment.
+If a participant engages in behavior that violates this code of conduct, the Chaotic-CX's staff may take any action they deem appropriate. In cases involving the staff or founding members the immediate action is expelishment.
 
 ## Procedure for Handling Incidents
 
@@ -112,10 +112,10 @@ We encourage you to include the following information in your report:
 
 ## License
 
-The Chaotic-AUR Code of Conduct is licensed under a [Creative Commons Attribution Share-Alike 3.0 Unported License](http://creativecommons.org/licenses/by-sa/3.0/).
+The Chaotic-CX Code of Conduct is licensed under a [Creative Commons Attribution Share-Alike 3.0 Unported License](http://creativecommons.org/licenses/by-sa/3.0/).
 
 ![Creative Commons License](https://licensebuttons.net/l/by-sa/3.0/88x31.png)
 
 ## Attribution
 
-The Chaotic-AUR Code of Conduct was forked from GNOME Foundation's Code of Conduct (last modified 2020-10-01), which is under a Creative Commons license. See the [original page](https://web.archive.org/web/20210813233606/https://wiki.gnome.org/Foundation/CodeOfConduct) for the original attributions.
+The Chaotic-CX Code of Conduct was forked from GNOME Foundation's Code of Conduct (last modified 2020-10-01), which is under a Creative Commons license. See the [original page](https://web.archive.org/web/20210813233606/https://wiki.gnome.org/Foundation/CodeOfConduct) for the original attributions.
