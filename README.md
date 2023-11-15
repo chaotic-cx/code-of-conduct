@@ -53,7 +53,7 @@ The Chaotic-AUR community is dedicated to providing a positive experience for ev
 Examples of behavior that contributes to creating a positive environment include:
 
 - **Be friendly.** Use welcoming and inclusive language.
-- **Be empathetic.** Be respectful of differing viewpoints and experiences.
+- **Be empathetic.** Be respectful of differing NON-EXCLUSIVE viewpoints and experiences.
 - **Be respectful.** When we disagree, we do so in a polite and constructive manner.
 - **Be considerate.** Remember that decisions are often a difficult choice between competing priorities. Focus on what is best for the community. Keep discussions around technology choices constructive and respectful.
 - **Be patient and generous.** If someone asks for help it is because they need it. When documentation is available that answers the question, politely point them to it. If the question is off-topic, suggest a more appropriate online space to seek help.
